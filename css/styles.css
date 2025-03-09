@@ -72,14 +72,11 @@ header{
     display: flex;
     justify-content: center; 
     align-items: center;
-    gap: 25x; 
+    gap: 25px; 
     position: absolute;
     top: 30px;
     left: 50%;
     transform: translateX(-50%); 
-}
-.navbar.show{
-    top: 0; 
 }
 .navbar a{
     font-size: var(--p-font);
