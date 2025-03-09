@@ -83,7 +83,7 @@ header{
     font-weight: 800;
     color: var(--text-color);
     margin: 0 25px;
-    transition: all ease .50s;
+   
 }
 .navbar a:hover{
     color: var(--main-color);
@@ -105,7 +105,7 @@ header{
     border-radius: 40px;
     display: flex;
     align-items: center;
-    cursor: pointer;
+   
 }
 #p-icon{
     font-size: 20px;
