@@ -435,10 +435,7 @@ header{
         transition: .2s;
 
     }
-    .share{
-        left: 8%;
-        transition: .2s;
-    }
+   
 }
 
 @media (max-width:1370px){
@@ -451,10 +448,7 @@ header{
         transition: .2s;
 
     }
-    .share{
-        left: 8%;
-        transition: .2s;
-    }
+  
     :root{
     --big-font: 5.5rem;
     --p-font: 1rem;
