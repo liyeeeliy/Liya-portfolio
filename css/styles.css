@@ -213,7 +213,7 @@ header{
     background: url('../img/y.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: left;
+    background-position: center;
 }
 #about h1 {
     position: relative;
@@ -256,7 +256,7 @@ header{
     color: var(--main-color);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: left;
+    background-position: center;
     padding: 15px;
     border-radius: 0 0 12px 12px;
     flex-grow: 1;
@@ -319,7 +319,7 @@ header{
     background: url('../img/y.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: left;
+    background-position: center;
     
 }
 .section-title {
@@ -364,7 +364,7 @@ header{
     background: url('../img/y.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: left;
+    background-position: center;
     display: flex;
     flex-direction: column;
     align-items: center;
