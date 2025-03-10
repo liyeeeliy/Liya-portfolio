@@ -370,7 +370,7 @@ header{
 }
 #contacts h2 {
     font-size: 2.5em;
-    color: #ff85a2;
+    color: var(--main-color);
     margin-bottom: 15px;
     
 }
