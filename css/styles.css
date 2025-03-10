@@ -337,7 +337,7 @@ header{
 }
 .skill-item h3 {
     font-size: 1.5rem;
-    color: #fff;
+     color: white;
     margin-bottom: 5px;
 }
 .skill-bar {
@@ -345,7 +345,6 @@ header{
     height: 10px;
     background:rgba(255, 172, 200, 0.4);
     border-radius: 5px;
-    overflow: hidden;
     margin-right: 600px;
 }
 .skill-fill {
