@@ -250,16 +250,14 @@ header{
 /* project section */
 
 #project {
-    text-align: center;
-    padding: 50px;
+     text-align: center;
+    padding: 50px 15px;
     background: url('../img/y.jpg');
     color: var(--main-color);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
-    padding: 15px;
+    background-position: left;
     border-radius: 0 0 12px 12px;
-    flex-grow: 1;
     flex-direction: column;
 }
 #project h2{
@@ -305,7 +303,7 @@ header{
 }
 .project-card p {
     padding: 0 15px 20px;
-    color: #666;
+     color: gray;
     
 }
 
