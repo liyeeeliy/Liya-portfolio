@@ -171,17 +171,7 @@ header{
     background: transparent;
     color: var(--main-color);
 }
-.two{
-    background: #141414;
-    border: 2px solid #141414;
-    color: var(--text-color);
-    margin-left: 25px;
-}
-.two:hover{
-    color: #141414;
-    background: var(--text-color);
-    border: 2px solid var(--text-color);
-}
+
 .share{
     position: absolute;
     bottom: 3rem;
